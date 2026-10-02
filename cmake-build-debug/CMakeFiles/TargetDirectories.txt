@@ -1,0 +1,3 @@
+C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026/cmake-build-debug/CMakeFiles/chen_emily_project3_Spring2026.dir
+C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026/cmake-build-debug/CMakeFiles/rebuild_cache.dir

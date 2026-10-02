@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026",
+	"dir-top-bld" : "C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026/cmake-build-debug",
+	"dir-top-src" : "C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026/cmake-build-debug/CMakeFiles/chen_emily_project3_Spring2026.dir",
+	"sources" : 
+	{
+		"CMakeFiles/chen_emily_project3_Spring2026.dir/src/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026/src/main.cpp"
+		}
+	}
+}

@@ -1,0 +1,20 @@
+# ninja log v6
+87	1977	7983854670026874	CMakeFiles/chen_emily_project3_Spring2026.dir/src/WelcomeWindow.cpp.obj	99cad6a3f385274
+78	1271	7985706818113224	build.ninja	b741545295d9eb10
+24	1724	7984568859680954	CMakeFiles/chen_emily_project3_Spring2026.dir/src/board.cpp.obj	e0a1216a9c7a683c
+78	1271	7985706818075575	C:/Users/chene/CLionProjects/chen_emily_project3_Spring2026/cmake-build-debug/cmake_install.cmake	b741545295d9eb10
+47	5144	7984944232639021	CMakeFiles/chen_emily_project3_Spring2026.dir/src/main.cpp.obj	580d82cd07ab4809
+5358	6045	7984944285752594	chen_emily_project3_Spring2026.exe	92e3ed1cb23d82a0
+12	1122	7983724320080263	CMakeFiles/chen_emily_project3_Spring2026.dir/src/welcome_window.cpp.obj	f974111160c7f101
+28	1823	7984571811851237	CMakeFiles/chen_emily_project3_Spring2026.dir/src/GameWindow.cpp.obj	87d5cbce79630049
+58	1159	7984944232749038	CMakeFiles/chen_emily_project3_Spring2026.dir/src/Leaderboard.cpp.obj	2ba5e963942414e8
+53	5357	7984944232709023	CMakeFiles/chen_emily_project3_Spring2026.dir/src/Tiles.cpp.obj	1c8b9f705ba50e2a
+48	1338	7985780131637007	CMakeFiles/chen_emily_project3_Spring2026.dir/src/main.cpp.obj	580d82cd07ab4809
+57	1423	7985780131720993	CMakeFiles/chen_emily_project3_Spring2026.dir/src/Tiles.cpp.obj	1c8b9f705ba50e2a
+63	1447	7985780131782083	CMakeFiles/chen_emily_project3_Spring2026.dir/src/Leaderboard.cpp.obj	2ba5e963942414e8
+1447	2112	7985780145624258	chen_emily_project3_Spring2026.exe	92e3ed1cb23d82a0
+6	864	7985786508038896	CMakeFiles/chen_emily_project3_Spring2026.dir/src/main.cpp.obj	580d82cd07ab4809
+13	985	7985786508101211	CMakeFiles/chen_emily_project3_Spring2026.dir/src/board.cpp.obj	e0a1216a9c7a683c
+18	1077	7985786508151225	CMakeFiles/chen_emily_project3_Spring2026.dir/src/Tiles.cpp.obj	1c8b9f705ba50e2a
+22	1187	7985786508197324	CMakeFiles/chen_emily_project3_Spring2026.dir/src/Leaderboard.cpp.obj	2ba5e963942414e8
+1187	1408	7985786519842396	chen_emily_project3_Spring2026.exe	92e3ed1cb23d82a0
